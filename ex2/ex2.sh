@@ -21,3 +21,4 @@ echo "2 + 3" | bc -q # i tried -q or --quiet as in the description
                #   Display the number of months after the current month.
                #  -B number
                #   Display the number of months before the current month.
+               #   didn't find a command to show all the months in one command    
